@@ -16,5 +16,11 @@ Reliability: Automated deployment and configuration ensure that the environment 
 
 This setup is scalable and can be extended to more complex systems, such as multi-tier applications with databases, load balancers, and application servers.
 
+## Blog
+
+https://vansh.tech/automate-cloud-infrastructure-with-terraform-and-ansible-an-introduction-to-iac
+
+https://medium.com/@vansh.bhardwaj1999/cloud-infrastructure-automation-with-terraform-and-ansible-an-iac-approach-2506cb608bd5
+
 
 ### Feel free to clone, explore, and contribute! 🚀🚀🚀
